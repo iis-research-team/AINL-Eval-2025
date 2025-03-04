@@ -10,6 +10,8 @@ Make a submission. Ensure, that submission file has 2 columns: `'id'` and `'labe
 
 Note, that Codalab requires submit file to be archived in zip.
 
+_After your results will be processed successfully, please, click on "Make your submission public" to publish the results._
+
 ## Motivation
 In recent years, developing large language models (LLMs) has revolutionized NLP. Nowadays, they are used almost everywhere, and this is undoubtedly a great progress. The generated texts are really close to human-level writing, making it increasingly challenging to differentiate between AI and human-generated content. However, there are some domains where LLMs usage is not desirable such as fake news generation or writing scientific papers. The latter problem is the main focus of this challenge. We aim to detect AI-generated abstracts for the scientific papers in the Russian language to facilitate research and development tools for this language.
 
