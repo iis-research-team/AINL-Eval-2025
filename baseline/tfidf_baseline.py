@@ -62,5 +62,5 @@ for sample in X_dev:
         preds.append('unknown')
 
 # save submission
-submission_df = pd.DataFrame({'id': ids, 'label': preds})
+submission_df = pd.DataFrame({'id': dev_ids, 'label': preds})
 submission_df.to_csv('submission.csv', index=False)
