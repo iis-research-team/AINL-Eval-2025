@@ -1,5 +1,5 @@
-# AINL-Eval-2025 Shared Task at AINL 2025
-Welcome to the repository for the AINL-Eval-2025 shared task on detection of AI-generated scientific abstracts in Russian held as part of the [AINL 2025](https://ainlconf.ru/) conference.
+# AINL-Eval 2025 Shared Task at AINL 2025
+Welcome to the repository for the AINL-Eval 2025 shared task on detection of AI-generated scientific abstracts in Russian held as part of the [AINL 2025](https://ainlconf.ru/) conference.
 
 ## !Train data are open!
 Use train set to develop the model!
@@ -68,7 +68,7 @@ The competition does not involve the use of external data, so the participants a
 
 **18-19 April 2025** – AINL 2025 conference. The final results are announced.
 
-**1 May 2025** – Paper submission deadline.
+**5 May 2025** – Paper submission deadline.
 
 
 
@@ -79,5 +79,5 @@ Elena Bruches (IIS SB RAS, NSU)
 
 Milana Shvenk (NSU)
 
-Valentin Malykh (ITMO University)
+Valentin Malykh (MIPT University, ITMO University)
 
