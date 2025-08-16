@@ -85,13 +85,23 @@ The competition does not involve the use of external data, so the participants a
 **5 May 2025** – Paper submission deadline.
 
 
-
 ## Organizers
 Tatiana Batura (IIS SB RAS)
-
 Elena Bruches (IIS SB RAS, NSU)
-
 Milana Shvenk (NSU)
-
 Valentin Malykh (MIPT University, ITMO University)
 
+## Citation
+If you find this repository useful, feel free to cite our paper:
+
+Batura T., Bruches E., Shvenk M., Malykh V. AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian. 2025. [arXiv preprint arXiv:2212.03533](https://arxiv.org/abs/2508.09622)
+
+```
+@article{ainleval2025,
+  title={AINL-Eval 2025 Shared Task: Detection of AI-Generated Scientific Abstracts in Russian},
+  author={Batura, Tatiana and Bruches, Elena and Shvenk, Milana and Malykh, Valentin},
+  year={2025},
+  journal={arXiv preprint arXiv:2508.09622},
+  url={https://www.arxiv.org/abs/2508.09622}
+}
+```
